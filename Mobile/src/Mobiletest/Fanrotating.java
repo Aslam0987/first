@@ -15,7 +15,7 @@ public class Fanrotating {
 			{
 				System.out.print(j);
 			}
-			System.out.println("");
+			System.out.println("this is file");
 		}
 
 	}
