@@ -1,5 +1,8 @@
 package Mobiletest;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 public class Fanrotating {
 
 	public static void main(String[] args) {
@@ -13,11 +16,26 @@ public class Fanrotating {
 		
 			for(int j=1;j<=i;j++)
 			{
-				System.out.print(j);
+				System.out.print(j)
 			}
 			System.out.println("this is file");
+			
 		}
+		
+		//System.getProperty("webdriver.chrome.driver","E:\\useful\\Selenium\\drivers\\chromedriver.exe");
 
+	//  WebDriver driver = new ChromeDriver();
+	  
+	 // driver.get("https://gmail.com");
+	  
+	//  String title = driver.getTitle();
+	  
+	  
+		  
+		
+	
+	  
+	  
 	}
 	}
 
