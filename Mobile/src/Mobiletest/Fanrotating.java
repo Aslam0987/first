@@ -16,12 +16,19 @@ public class Fanrotating {
 		
 			for(int j=1;j<=i;j++)
 			{
-				System.out.print(j)
+				System.out.print(j);
 			}
 			System.out.println("this is file");
 			
 		}
 		
+		int a=10;
+		int b=20;
+		
+		boolean c = (a==b)
+		
+		System.out.println(c);
+				
 		//System.getProperty("webdriver.chrome.driver","E:\\useful\\Selenium\\drivers\\chromedriver.exe");
 
 	//  WebDriver driver = new ChromeDriver();
