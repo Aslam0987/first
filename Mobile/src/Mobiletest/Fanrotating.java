@@ -25,9 +25,9 @@ public class Fanrotating {
 		int a=10;
 		int b=20;
 		
-		boolean c = (a==b)
+		//boolean c = (a==b)
 		
-		System.out.println(c);
+		//System.out.println(c);
 				
 		//System.getProperty("webdriver.chrome.driver","E:\\useful\\Selenium\\drivers\\chromedriver.exe");
 
